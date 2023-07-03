@@ -49,7 +49,7 @@ pytest
 <hr>
 
 #### documentation 
-<b> test site<br> 
+test site
     http://restful-booker.herokuapp.com/
 
 
