@@ -22,8 +22,7 @@ pip3 install -r requirements.txt
 pytest
 ```
 
-#### documention
-<link>### Instructions for launch tests
+
 
 1. Navigate to gitHab
 
